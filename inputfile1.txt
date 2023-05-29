@@ -1,6 +1,0 @@
-patid;pulse;syst_blood_pressure;diast_blood_pressure;date;performer
-12;77;145;78;05.07.2020;XM
-22;67;140;69;12.01.2021;WE
-11;107;163;77;06.10.2019;XRT
-43;99;122;71;23.11.2017;ZU
-66;92;115;65;01.12.2018;IO
